@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**minajevs/minajevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Dmitrijs Minajevs** and I am software developer and enthusiastic hacker located in Rīga, Latvia.
 
-Here are some ideas to get you started:
+I am currently working on the position of Lead Software Engineer at [C.T.Co](https://ctco.lv/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love playing around with technologies. I am very enthusiastic about functional programming, architecture and software craftmanship. 
+
+## Some stuff I did on my free time
+* [React state management library](https://github.com/minajevs/react-concise-state)
+* [TypeScript game engine](https://github.com/minajevs/Juke)
+* [Real-time guesstimation game for teams](https://github.com/minajevs/quizzy)
+* [Keyboard collection repo](https://github.com/minajevs/keyboards)
+
+## If you want to reach me
+* Write me an email at [dmitrijs.minajevs@outlook.com](mailto:dmitrijs.minajevs@outlook.com)
+* Add me on [LinkedIn](//linkedin.com/in/minajevs)
+* Follow me on [Instagram](//www.instagram.com/dexie.me)
