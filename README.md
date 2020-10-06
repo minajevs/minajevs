@@ -2,7 +2,7 @@
 
 My name is **Dmitrijs Minajevs** and I am software developer and enthusiastic hacker located in Rīga, Latvia.
 
-I am currently working on the position of Lead Software Engineer at [C.T.Co](https://ctco.lv/).
+I am currently working on the position of Senior Software Engineer at [C.T.Co](https://ctco.lv/).
 
 I love playing around with technologies. I am very enthusiastic about functional programming, architecture and software craftmanship. 
 
